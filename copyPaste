@@ -1,0 +1,8 @@
+String turnedString = f.toString();
+if(turnedString.contains(parameters[1])) {
+  foundPaths.add(f.toString());
+}
+
+http://ieng6-202.ucsd.edu:4986/
+
+pwd
